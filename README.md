@@ -1,5 +1,5 @@
 
-# Emotion Detection Application
+# Final Project: Emotion Detection Application.
 
 ## Project Description
 A Python application that detects emotions in text using the IBM Watson NLP Emotion Detection service.
