@@ -1,0 +1,25 @@
+ python -c "from EmotionDetection import emotion_detector; print('Package imported successfully')"
+
+Package imported successfully
+
+PS C:\Desktop\EMotionDetection\EmotionDetection> python -m unittest -v test_emotion_detection.py
+
+test_anger (test_emotion_detection.TestEmotionDetection.test_anger) ...ok
+
+test_disgust (test_emotion_detection.TestEmotionDetection.test_disgust)... ok
+
+test_fear (test_emotion_detection.TestEmotionDetection.test_fear) ... ok
+
+test_joy (test_emotion_detection.TestEmotionDetection.test_joy) ... ok
+
+test_sadness (test_emotion_detection.TestEmotionDetection.test_sadness)... ok
+
+
+
+----------------------------------------------------------------------
+
+Ran 5 tests in 0.004s
+
+
+
+OK
